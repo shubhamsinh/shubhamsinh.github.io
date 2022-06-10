@@ -9,14 +9,14 @@ export const intro = {
   desc: "I'm a software developer with experience building mobile apps and websites.",
 };
 export const personalDetails = {
-  mobile: "+1 519-996-1453",
+  mobile: "+91 8128734037",
   email: "askrahevar@gmail.com",
-  location: "Windsor, Ontario, Canada",
+  location: "Ahmedabad, Gujarat, India",
 };
 
 export const about = {
   resumeLink:
-    "https://drive.google.com/uc?id=1MmMh6NjrTnoijeb4lqeUTPjtqdtSJx2D",
+    "https://drive.google.com/file/d/1xO03HLfEK3_WAMSHLuJAI1ZyIzEtG5rq/view?usp=sharing",
 };
 export const products = [
   {

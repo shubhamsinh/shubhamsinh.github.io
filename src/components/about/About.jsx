@@ -7,7 +7,7 @@ const About = () => {
       <div className="a-left">
         <div className="a-card">
           <img
-            src="https://drive.google.com/uc?id=13nYvyqe-2Rip_l0544CXtNo7Plu86O0j"
+            src="https://lh3.googleusercontent.com/PyM0znW6cTXLk46ryMOZLLFGpIZ093hy2U-_sos83d2a5c868qm1uNXpVgyEVRR5iZthR2b9bzzOXCLYAfgTgW64BMCkHxYpLJheOjwdi9LfNn0lZiDPdbA5zK0S7tG89D1D8KQ2lQ=w2400"
             alt=""
             className="a-img"
           />
