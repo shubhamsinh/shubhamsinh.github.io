@@ -16,27 +16,27 @@ export const personalDetails = {
 
 export const about = {
   resumeLink:
-    "https://drive.google.com/file/d/1xO03HLfEK3_WAMSHLuJAI1ZyIzEtG5rq/view?usp=sharing",
+    "https://drive.google.com/file/d/1SIeKzJXEfmKwG-3LPSY4y5jbICARoVxC/view?usp=sharing",
 };
 export const products = [
   {
     id: 1,
-    img: "https://drive.google.com/uc?id=1iFQ7x42GxvjelwnLGQrGlcCBdP6mD31F",
-    link: "https://fashion-point.herokuapp.com",
+    img: "https://drive.google.com/file/d/1eg5eoLhU3ghoMBfcjaY5z_h62l4PZ6Pb/view",
+    link: "https://github.com/shubhamsinh/laundryuncle",
   },
   {
     id: 2,
-    img: "https://drive.google.com/uc?id=1nEEjP9xgpZL7OphWztLK2CcE0KLb44gr",
-    link: "https://github.com/shrvr/Linking",
+    img: "https://drive.google.com/file/d/1YeXu6rQxwpq37VJd-yiuaFbBpWaJXZfR/view",
+    link: "https://github.com/shubhamsinh/urbangreens",
   },
   {
     id: 3,
-    img: "https://drive.google.com/uc?id=1Q0G1uGAEx6ukZWmazBHGmtxlNy3Zh0cb",
-    link: "https://github.com/shrvr/placement-portal",
+    img: "https://drive.google.com/file/d/1fcLITnoOvHXI6YGgkE8Jl4JYEdQDQdME/view",
+    link: "https://github.com/shubhamsinh/urbangreens",
   },
   {
     id: 4,
-    img: "https://drive.google.com/uc?id=1qR_G0gkPz-gJsgbqS8Z0j5jtTGTNy1ae",
-    link: "https://public.tableau.com/app/profile/shurvirsinh.arvindsinh.sisodiya/viz/Dashboard_StockAcuity_16458504009640/StockAcuity",
+    img: "https://drive.google.com/file/d/1YfJKIj4FohQ0iyDOledVxcp8TzLAcJRZ/view",
+    link: "https://github.com/shubhamsinh/text_recognition",
   },
 ];
