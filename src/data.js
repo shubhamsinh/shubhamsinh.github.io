@@ -21,22 +21,22 @@ export const about = {
 export const products = [
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1eg5eoLhU3ghoMBfcjaY5z_h62l4PZ6Pb/view",
+    img: "https://drive.google.com/file/d/1eg5eoLhU3ghoMBfcjaY5z_h62l4PZ6Pb/view?usp=sharing",
     link: "https://github.com/shubhamsinh/laundryuncle",
   },
   {
     id: 2,
-    img: "https://drive.google.com/file/d/1YeXu6rQxwpq37VJd-yiuaFbBpWaJXZfR/view",
+    img: "https://drive.google.com/file/d/1YeXu6rQxwpq37VJd-yiuaFbBpWaJXZfR/view?usp=sharing",
     link: "https://github.com/shubhamsinh/urbangreens",
   },
   {
     id: 3,
-    img: "https://drive.google.com/file/d/1fcLITnoOvHXI6YGgkE8Jl4JYEdQDQdME/view",
+    img: "https://drive.google.com/file/d/1fcLITnoOvHXI6YGgkE8Jl4JYEdQDQdME/view?usp=sharing",
     link: "https://github.com/shubhamsinh/urbangreens",
   },
   {
     id: 4,
-    img: "https://drive.google.com/file/d/1YfJKIj4FohQ0iyDOledVxcp8TzLAcJRZ/view",
+    img: "https://drive.google.com/file/d/1YfJKIj4FohQ0iyDOledVxcp8TzLAcJRZ/view?usp=sharing",
     link: "https://github.com/shubhamsinh/text_recognition",
   },
 ];
