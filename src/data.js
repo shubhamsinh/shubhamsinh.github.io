@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://lh3.googleusercontent.com/3GaDbU_OEL22JSOhWVIB88YvTawS3_nmkOgOkpVbGrSGycwmMXd5V1lZHyjU_OvF1nwjj3e6zkhuFJ-l_XOEK7NApT4_jBRTFztsdQF0P8x7gypKocw3TcfwBy8Giixx1LtycqNSVQ=w2400",
+    img: "https://lh3.googleusercontent.com/qscRCRMBFnu3N3bN7Yb_GCjmJ9D-E0dxyzfv-EOStwa42y37CDJ0YFtOwUKkdy-1Hc4i-lujgvaWVYg9EfARYak5mpjokjA2acDXTZy9F38uyBGNMsaQFvnmapMbW7f6J9k9wgdLyA=w2400",
     link: "https://github.com/shubhamsinh/urbangreens",
   },
   {
@@ -36,7 +36,7 @@ export const products = [
   },
   {
     id: 4,
-    img: "https://lh3.googleusercontent.com/s1wDm8qvICuMNILqmDydoYpWXsPi9MTpzxRxDW1IHQSH_dJ4Nedp2cpBLyZPYhFQiMVjY7I-WoRrYx7XH-VasmPQ8yy7AMEXI_azcJFQrL4ZhLrtdigf8pxKCUKv4x2nysCd7KB-3g=w2400",
+    img: "https://lh3.googleusercontent.com/MyZ6lg1mIw7ckFlmegZ3f2dtOy25uwRCfHjKgZ4Am6uqVFmabYJ6kgEkLb1eyp6Pb5IYuijuoMMT6WZQYdM8bPKk7Nx39g4oZmSQZry4-l6r24a1NeHuT0S_KXQd0RihJ0tcuvT0Sg=w2400",
     link: "https://github.com/shubhamsinh/text_recognition",
   },
 ];
