@@ -73,6 +73,7 @@ const Contact = () => {
               type="text"
               placeholder="Full Name"
               name="user_name"
+              required
             />
             <input
               className="c-input-1"
@@ -84,6 +85,7 @@ const Contact = () => {
               type="text"
               placeholder="Subject"
               name="user_subject"
+              required
             />
             <input
               className="c-input-1"
@@ -95,6 +97,7 @@ const Contact = () => {
               type="text"
               placeholder="Email"
               name="user_email"
+              required
             />
             <textarea
               style={{
@@ -104,6 +107,7 @@ const Contact = () => {
               rows="5"
               placeholder="Enter Your message"
               name="message"
+              required
             />
             <button className="c-button">Submit</button>
             {done && "Thank you..."}
