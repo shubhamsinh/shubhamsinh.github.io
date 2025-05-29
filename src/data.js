@@ -2,9 +2,9 @@ export const intro = {
   name: "Shubhamsinh Rahevar",
   titles: {
     t1: "Software Developer",
-    t2: "Web Developer",
+    t2: "Flutter Developer",
     t3: "Mobile Developer",
-    t4: "Full-Stack Developer",
+    t4: "iOS Developer",
   },
   desc: "I'm a software developer with experience building mobile apps and websites.",
 };
